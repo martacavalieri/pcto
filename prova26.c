@@ -22,5 +22,9 @@ int main()
         {
             printf("primo");
         }
+    else if(n==1)
+    {
+        printf("non è primo");
+    }
 
 }
